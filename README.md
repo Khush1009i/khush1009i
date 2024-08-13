@@ -2,6 +2,12 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+Label-Color
+https://img.shields.io/badge/LinkedIn-blue
+logo={your social network icon name}
+logoColor={color of the icon}
+https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white
+https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge
 <!--
 **Khush1009i/khush1009i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
