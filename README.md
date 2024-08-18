@@ -90,5 +90,5 @@ I am a Front End Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
   [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/7MrjiKzxC) 
 </p>
-
+<a href="https://app.daily.dev/khush_soni"><img src="https://api.daily.dev/devcards/v2/1VsNSXr2UTZwvnEig6Vk7.png?type=wide&r=azv" width="652" alt="KHUSH SONI's Dev Card"/></a>
 
