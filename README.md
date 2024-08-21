@@ -4,7 +4,7 @@
 </h1>
 
  <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
+ <img alt="GIF" src="https://media4.giphy.com/media/11KzOet1ElBDz2/giphy.gif?cid=6c09b952ufa3xxbbm0mpuadm2zaik3wjp4m9luz2ly0lyz8d&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" />
 </div>
 
 ---
@@ -71,7 +71,8 @@ I am a Front End Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   
 ---
 ### 📊: Activity graph :
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=khush1009i&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Khush's GitHub stats](https://github-readme-stats.vercel.app/api?username=khush1009i&show_icons=true&bg_color=00000000)
+[![Khush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=khush1009i&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 ### ✍️ Random Dev Quote
@@ -92,3 +93,26 @@ I am a Front End Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 </p>
 <a href="https://app.daily.dev/khush_soni"><img src="https://api.daily.dev/devcards/v2/1VsNSXr2UTZwvnEig6Vk7.png?type=wide&r=azv" width="652" alt="KHUSH SONI's Dev Card"/></a>
 
+
+
+<!--
+h2 align="center">
+  <img src="https://komarev.com/ghpvc/?username=[YourUsername]&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
+  Fullstack Developer
+  <a href="https://[your-portfolio-link]">
+    <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
+  </a>
+</h2>
+<div align="center">
+
+</div>
+-->
+<!--
+[![trophy](https://github-profile-trophy.vercel.app/?username=khush1009i)](https://github.com/khush1009i/github-profile-trophy)
+-->
+![](https://komarev.com/ghpvc/?username=khush1009i&color=dc143c)
+<!--
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=khush1009i&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/khush1009i/github-readme-activity-graph)
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16) -->
