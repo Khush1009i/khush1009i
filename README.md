@@ -7,13 +7,8 @@
 </div>
 
 ---
-
-### 
-
-
----
 ### :woman_technologist: About Me :
-I am a Front End Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">from Rajasthan India.
+I am a dumb Front End Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">from Rajasthan India.
 
 - :telescope: I’m a btech student and contributing to frontend and backend for building web applications.
 
@@ -27,8 +22,15 @@ I am a Front End Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - 🤔 I’m looking for help with Backend and database !
 
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]((https://www.linkedin.com/in/khush-soni-a76946306?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
-
+- :mailbox:How to reach me:
+<a href="https://dev.to/@khushsoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@khushsoni" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/khush-soni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khush-soni" height="30" width="40" /></a>
+<a href="https://fb.com/hindu.hi.hindutva.hai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hindu.hi.hindutva.hai" height="30" width="40" /></a>
+<a href="https://instagram.com/myvariable_khush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="myvariable_khush" height="30" width="40" /></a>
+<!--<a href="https://hashnode.com/@khushsoni007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@khushsoni007" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/khush_soni007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="khush_soni007" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@22embit023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@22embit023" height="30" width="40" /></a>
+</p>-->
 ---
 ### :hammer_and_wrench: Languages & Tools :
 <!--<div>
@@ -69,19 +71,21 @@ I am a Front End Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ---
 
-### :fire: My Stats :
+### 🔥 My Stats :
   [![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=khush1009i&theme=dark&background=000000)](https://git.io/streak-stats) 
-  <h3>🔗DAILY.DEV Status<br>
+  <h3>🔥DAILY.DEV Status<br>
   <a href="https://app.daily.dev/khush_soni"><img src="https://api.daily.dev/devcards/v2/1VsNSXr2UTZwvnEig6Vk7.png?type=wide&r=azv" width="400" alt="KHUSH SONI's Dev Card"/></a></h3>
 
 ---
 ### 📊: Activity graph :
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khush1009i)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khush1009i&show_icons=true&theme=radical)
 [![trophy](https://github-profile-trophy.vercel.app/?username=khush1009i)](https://github.com/khush1009i/github-profile-trophy)
 [![Khushsoni's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=khush1009i&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/khush1009i/github-readme-activity-graph)
+<h2 align="left">
+  <img src="https://komarev.com/ghpvc/?username=khush1009i&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21";>
+</h2>
+
 
 ---
 
@@ -90,7 +94,7 @@ Random DEV Quote:
   
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!---
+<!--
 <h1 align="left">
   <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif"height="50" width="50">
   Connect With ME !
@@ -116,11 +120,9 @@ Random DEV Quote:
 <div align="center">
   <h1 font-size="10px">Thanks to Visit !</h1>
   <img src="https://user-images.githubusercontent.com/74038190/216658113-c947be31-78e5-4064-9cb5-7d23b49164e6.gif">
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/khush_soni"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="khush_soni" /></a></p><a href="https://ko-fi.com/khushsoni"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="khushsoni" /></a></p><br><br>
 </div>
 
-<h2 align="center">
-  <img src="https://komarev.com/ghpvc/?username=khush1009i&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21";>
-</h2>
-
-
+---
 
