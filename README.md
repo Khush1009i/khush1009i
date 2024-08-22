@@ -7,9 +7,9 @@
 </div>
 
 ---
-### :woman_technologist: About Me :
+<h1> 🧑‍💻About Me </h1>:
 I am a dumb Front End Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">from Rajasthan India.
-
+<h5>
 - :telescope: I’m a btech student and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
@@ -20,7 +20,7 @@ I am a dumb Front End Developer<img src="https://media.giphy.com/media/WUlplcMpO
 - 🌱 I’m currently learning Reactjs
 - 👯 I’m looking to collaborate with Backend Devloper
 - 🤔 I’m looking for help with Backend and database !
-
+</h5>
 
 - :mailbox:How to reach me:
 <a href="https://dev.to/@khushsoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@khushsoni" height="30" width="40" /></a>
@@ -32,7 +32,7 @@ I am a dumb Front End Developer<img src="https://media.giphy.com/media/WUlplcMpO
 <a href="https://www.hackerrank.com/@22embit023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@22embit023" height="30" width="40" /></a>
 </p>-->
 ---
-### :hammer_and_wrench: Languages & Tools :
+### <h1> 🛠️Languages & Tools :</h1>
 <!--<div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -71,9 +71,9 @@ I am a dumb Front End Developer<img src="https://media.giphy.com/media/WUlplcMpO
 
 ---
 
-### 🔥 My Stats :
-  [![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=khush1009i&theme=dark&background=000000)](https://git.io/streak-stats) 
-  <h3>🔥DAILY.DEV Status<br>
+### 🔥My Stats
+[![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=khush1009i&theme=dark&background=000000)](https://git.io/streak-stats) <br>
+  🔥DAILY.DEV Status<br>
   <a href="https://app.daily.dev/khush_soni"><img src="https://api.daily.dev/devcards/v2/1VsNSXr2UTZwvnEig6Vk7.png?type=wide&r=azv" width="400" alt="KHUSH SONI's Dev Card"/></a></h3>
 
 ---
@@ -86,11 +86,8 @@ I am a dumb Front End Developer<img src="https://media.giphy.com/media/WUlplcMpO
   <img src="https://komarev.com/ghpvc/?username=khush1009i&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21";>
 </h2>
 
-
 ---
-
-<div align="center">✍️
-Random DEV Quote:
+✍️Random DEV Quote:
   
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -116,10 +113,9 @@ Random DEV Quote:
 
 ---
 
-
 <div align="center">
-  <h1 font-size="10px">Thanks to Visit !</h1>
-  <img src="https://user-images.githubusercontent.com/74038190/216658113-c947be31-78e5-4064-9cb5-7d23b49164e6.gif">
+<h1>Thanks to Visit ! <br><img src="https://user-images.githubusercontent.com/74038190/216658113-c947be31-78e5-4064-9cb5-7d23b49164e6.gif">
+</h1></div>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/khush_soni"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="khush_soni" /></a></p><a href="https://ko-fi.com/khushsoni"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="khushsoni" /></a></p><br><br>
 </div>
