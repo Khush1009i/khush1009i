@@ -2,10 +2,16 @@
   Hey There!!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px"/>
 </h1>
-
  <div align="center">
  <img alt="GIF" src="https://media4.giphy.com/media/11KzOet1ElBDz2/giphy.gif?cid=6c09b952ufa3xxbbm0mpuadm2zaik3wjp4m9luz2ly0lyz8d&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" />
 </div>
+---
+
+### <h2>🔗DAILY.DEV Status </h2>
+<div align="center">
+<a href="https://app.daily.dev/khush_soni"><img src="https://api.daily.dev/devcards/v2/1VsNSXr2UTZwvnEig6Vk7.png?type=wide&r=azv" width="652" alt="KHUSH SONI's Dev Card"/></a>
+</div>
+
 
 ---
 ### :woman_technologist: About Me :
@@ -21,6 +27,7 @@ I am a Front End Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - 🌱 I’m currently learning Reactjs
 - 👯 I’m looking to collaborate with Backend Devloper
 - 🤔 I’m looking for help with Backend and database !
+
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]((https://www.linkedin.com/in/khush-soni-a76946306?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 
@@ -79,7 +86,10 @@ I am a Front End Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-### <h3 align="left">🤝Connect with me:</h3>
+<h1 align="left">
+  Connect With ME !
+  <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="45px"/>
+</h1>
 <p align="left">
 <a href="https://dev.to/@khushsoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@khushsoni" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/khush-soni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khush-soni" height="30" width="40" /></a>
@@ -91,10 +101,16 @@ I am a Front End Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
   [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/7MrjiKzxC) 
 </p>
-<a href="https://app.daily.dev/khush_soni"><img src="https://api.daily.dev/devcards/v2/1VsNSXr2UTZwvnEig6Vk7.png?type=wide&r=azv" width="652" alt="KHUSH SONI's Dev Card"/></a>
+  
+![profileviews](https://komarev.com/ghpvc/?username=khush1009i&color=dc143c)
+
+---
 
 
-
+<div align="center">
+  <h1 font-size="10px">Thanks to Visit !</h1>
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
+</div>
 <!--
 h2 align="center">
   <img src="https://komarev.com/ghpvc/?username=[YourUsername]&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
@@ -103,14 +119,12 @@ h2 align="center">
     <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
   </a>
 </h2>
-<div align="center">
-
-</div>
 -->
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=khush1009i)](https://github.com/khush1009i/github-profile-trophy)
 -->
-![](https://komarev.com/ghpvc/?username=khush1009i&color=dc143c)
+
+
 <!--
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=khush1009i&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/khush1009i/github-readme-activity-graph)
