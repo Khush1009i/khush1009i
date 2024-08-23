@@ -24,8 +24,9 @@
 
 - :mailbox:How to reach me:
 <div align="left">
-   <a href= " sonikhush004@gmail.com"> 
-<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" height="45" width="45"></a> <a href="https://dev.to/@khushsoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@khushsoni" height="30" width="40" /></a>
+ <a href= "mailto: sonikhush004@gmail.com"> 
+   <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png">
+   </a> <a href="https://dev.to/@khushsoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@khushsoni" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/khush-soni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khush-soni" height="30" width="40" /></a>
 <a href="https://fb.com/hindu.hi.hindutva.hai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hindu.hi.hindutva.hai" height="30" width="40" /></a>
 <a href="https://instagram.com/myvariable_khush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="myvariable_khush" height="30" width="40" /></a>
