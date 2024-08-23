@@ -1,5 +1,5 @@
 <h1>
-  Hey There!!
+  Hey there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px"/>
 </h1>
  <div align="center">
@@ -7,9 +7,9 @@
 </div>
 
 ---
-<h1> 🧑‍💻About Me </h1>:
-I am a dumb Front End Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">from Rajasthan India.
-<h5>
+<h1> 🧑‍💻About Me : </h1>
+<h4>I am a Front-End Developer<img src="https://user-images.githubusercontent.com/74038190/216656947-44e5d67b-e907-4646-99da-6a4b4f52ef81.gif" width="30"> from India.
+
 - :telescope: I’m a btech student and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
@@ -20,17 +20,20 @@ I am a dumb Front End Developer<img src="https://media.giphy.com/media/WUlplcMpO
 - 🌱 I’m currently learning Reactjs
 - 👯 I’m looking to collaborate with Backend Devloper
 - 🤔 I’m looking for help with Backend and database !
-</h5>
+</h4>
 
 - :mailbox:How to reach me:
-<a href="https://dev.to/@khushsoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@khushsoni" height="30" width="40" /></a>
+<div align="left">
+<a href="sonikhush004@gmail.com"><img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" height="45" width="45"> <a href="https://dev.to/@khushsoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@khushsoni" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/khush-soni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khush-soni" height="30" width="40" /></a>
 <a href="https://fb.com/hindu.hi.hindutva.hai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hindu.hi.hindutva.hai" height="30" width="40" /></a>
 <a href="https://instagram.com/myvariable_khush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="myvariable_khush" height="30" width="40" /></a>
+</div>
 <!--<a href="https://hashnode.com/@khushsoni007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@khushsoni007" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/khush_soni007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="khush_soni007" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@22embit023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@22embit023" height="30" width="40" /></a>
 </p>-->
+  
 ---
 ### <h1> 🛠️Languages & Tools :</h1>
 <!--<div>
@@ -117,8 +120,12 @@ I am a dumb Front End Developer<img src="https://media.giphy.com/media/WUlplcMpO
 <h1>Thanks to Visit ! <br><img src="https://user-images.githubusercontent.com/74038190/216658113-c947be31-78e5-4064-9cb5-7d23b49164e6.gif">
 </h1></div>
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/khush_soni"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="khush_soni" /></a></p><a href="https://ko-fi.com/khushsoni"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="khushsoni" /></a></p><br><br>
-</div>
+<p><a href="https://www.buymeacoffee.com/khush_soni"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="khush_soni" /></a></p><a href="https://ko-fi.com/khushsoni"> <img align="right" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="khushsoni" /></a></p><br><br>
+</div> 
+
+<div align="center"> 
+  <h3>👨‍💻Developing with ❤️ from India !</h3>
+</div> 
 
 ---
 
