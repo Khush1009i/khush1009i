@@ -1,5 +1,7 @@
+<!-- 
+
 <h1 align="center">Hey there, I'm Khush Soni <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
-<div align="center">
+<!--<div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" height="450" width="850"></div>
 
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/11KzOet1ElBDz2/giphy.gif?cid=6c09b952ufa3xxbbm0mpuadm2zaik3wjp4m9luz2ly0lyz8d&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="335">
@@ -44,8 +46,8 @@
 ![Netlify](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
 ![Gitlab](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![Github](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
--->
-
+--->
+<!--
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
