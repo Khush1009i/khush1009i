@@ -1,9 +1,9 @@
 
 <h1 align="center">Hey there, I'm Khush Soni <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 <div align="center">
-<img src="https://media4.giphy.com/media/11KzOet1ElBDz2/giphy.gif?cid=6c09b952ufa3xxbbm0mpuadm2zaik3wjp4m9luz2ly0lyz8d&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" height="450" width="850"></div>
+<img src="https://media4.giphy.com/media/11KzOet1ElBDz2/giphy.gif?cid=6c09b952ufa3xxbbm0mpuadm2zaik3wjp4m9luz2ly0lyz8d&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" height="350" width="700"></div>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="0">
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 
 <h1> <img src="https://user-images.githubusercontent.com/74038190/216655846-93807a43-d6e8-448a-bf19-799b5e8c1c0a.gif" height="50">About Me : </h1>
 <h4>I am a Front-End Developer<img src="https://user-images.githubusercontent.com/74038190/216656947-44e5d67b-e907-4646-99da-6a4b4f52ef81.gif" width="30"> from India.
@@ -94,9 +94,11 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hindu.hi.hindutva.hai" height="30" width="40" /></a>
 <a href="https://instagram.com/myvariable_khush" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="myvariable_khush" height="30" width="40" /></a>
-<!-- 
+<!--
+### Coding Practice Plattform
 <a href="https://hashnode.com/@khushsoni007" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@khushsoni007" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/khush_soni007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="khush_soni007" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@22embit023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@22embit023" height="30" width="40" /></a>
 </p>
+-->
