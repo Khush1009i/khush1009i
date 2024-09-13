@@ -18,9 +18,7 @@
    </a>
 </h5>
 
----
-
-### 🛠️Languages & Tools :
+<!--### 🛠️Languages & Tools :
 <div>
    <!-- 
    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -44,22 +42,21 @@
 ![Gitlab](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![Github](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 --->
-
+<!--
 <p align="left">
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
    <a href="https://www.w3.org/html/" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+<!--   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  -->
+<!--   <a href="https://reactjs.org/" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  
 ![Netlify](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
 ![Gitlab](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
-![Github](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717) </p>
+![Github](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717) </p>-->
 
 ---
 
@@ -67,9 +64,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khush1009i&langs_count=8)
 ![Khuhsoni's GitHub stats](https://github-readme-stats.vercel.app/api?username=khush1009i&show_icons=true&theme=radical)<br>
 [![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=khush1009i&theme=dark&background=000000)](https://git.io/streak-stats) <br><br>
+<!--
 <h2 > <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@khushsoni" height="30" width="40" />Daily.Dev Status </h2>
   
-  <a href="https://app.daily.dev/khush_soni"><img src="https://api.daily.dev/devcards/v2/1VsNSXr2UTZwvnEig6Vk7.png?type=wide&r=azv" width="400" alt="KHUSH SONI's Dev Card"/></a></h3></a>
+  <a href="https://app.daily.dev/khush_soni"><img src="https://api.daily.dev/devcards/v2/1VsNSXr2UTZwvnEig6Vk7.png?type=wide&r=azv" width="400" alt="KHUSH SONI's Dev Card"/></a></h3></a> -->
 
 ---
 ### 📊: Activity graph :
