@@ -1,22 +1,25 @@
 
-<h1 align="center">Hey there, I'm Khush Soni <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1 align="center">Hey there, I'm Khush Soni from India.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 <div align="center">
 <img src="https://media4.giphy.com/media/11KzOet1ElBDz2/giphy.gif?cid=6c09b952ufa3xxbbm0mpuadm2zaik3wjp4m9luz2ly0lyz8d&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" height="350" width="700"></div>
 
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 
-<h1> <img src="https://user-images.githubusercontent.com/74038190/216655846-93807a43-d6e8-448a-bf19-799b5e8c1c0a.gif" height="50">About Me : </h1>
-<h5>I am a Front-End Developer<img src="https://user-images.githubusercontent.com/74038190/216656947-44e5d67b-e907-4646-99da-6a4b4f52ef81.gif" width="30"> from India.
-
+<!-- <h1> <img src="https://user-images.githubusercontent.com/74038190/216655846-93807a43-d6e8-448a-bf19-799b5e8c1c0a.gif" height="50">About Me : </h1>-->
+<h3> Stucked in the Loop Of Matrix...!!<img src="https://user-images.githubusercontent.com/74038190/216656947-44e5d67b-e907-4646-99da-6a4b4f52ef81.gif" width="50"> <br><br>
+- :mailbox:How to reach me:<a href= "sonikhush004@gmail.com"> <b>sonikhush004@gmail.com </b>🙂
+     </a>
+</h3>
+<!--
 - 🔭: I’m a pursuing btech and devloping web applications & sites.
 - 🌱: Exploring Technical Content Writing.
 - ⚡: In my free time, I read tech articles & books .
 - 🔭 I’m currently working on a entertainment site.
 - 🌱 I’m currently learning Reactjs
 - 👯 I’m looking to collaborate with Backend Devloper
-- :mailbox:How to reach me:<a href= "mailto: sonikhush004@gmail.com"> <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" height="50" width="45">
-   </a>
-</h5>
+-->
+<!--<a href= "mailto: sonikhush004@gmail.com"><img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" height="50" width="45">-->
+ 
 
 <!--### 🛠️Languages & Tools :
 <div>
@@ -60,7 +63,9 @@
 
 ---
 
-### 🔥Git Repository Status 
+
+### 🔥Git Repository Status :-
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khush1009i&langs_count=8)
 ![Khuhsoni's GitHub stats](https://github-readme-stats.vercel.app/api?username=khush1009i&show_icons=true&theme=radical)<br>
 [![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=khush1009i&theme=dark&background=000000)](https://git.io/streak-stats) <br><br>
@@ -77,16 +82,16 @@
 <div align="center"><img src="https://komarev.com/ghpvc/?username=khush1009i&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:50";>
 </div>
 
----
+<!---
 ### ✍️:Random Dev Quote:<br>
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
+--->
 
-<h3 align="left">Support Me:</h3>
-<p><a href="https://www.buymeacoffee.com/khush_soni"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="khush_soni" /></a></p>
+<h3 align="left">Social Connection :- </h3>
+<!--<p><a href="https://www.buymeacoffee.com/khush_soni"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="khush_soni" /></a></p>
 <a href="https://ko-fi.com/khushsoni"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="khushsoni" /></a></p><a href="https://dev.to/@khushsoni" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@khushsoni" height="30" width="40" /></a>
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@khushsoni" height="30" width="40" /></a>-->
 <a href="https://linkedin.com/in/khush-soni" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khush-soni" height="30" width="40" /></a>
 <a href="https://fb.com/hindu.hi.hindutva.hai" target="blank">
