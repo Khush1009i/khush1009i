@@ -5,11 +5,13 @@
 
 <!--img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 
-<!-- <h1> <img src="https://user-images.githubusercontent.com/74038190/216655846-93807a43-d6e8-448a-bf19-799b5e8c1c0a.gif" height="50">About Me : </h1>-->
-<h3> Stucked in the Loop Of Matrix...!!<img src="https://user-images.githubusercontent.com/74038190/216656947-44e5d67b-e907-4646-99da-6a4b4f52ef81.gif" width="50"> <br><br><a href= "mailto: sonikhush004@gmail.com"><img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" height="50" width="45">
+<h1> <img src="https://user-images.githubusercontent.com/74038190/216655846-93807a43-d6e8-448a-bf19-799b5e8c1c0a.gif" height="50">About Me : </h1>-->
+<h3> Stucked in the Loop Of Matrix...!!<img src="https://user-images.githubusercontent.com/74038190/216656947-44e5d67b-e907-4646-99da-6a4b4f52ef81.gif" width="50"><h2>📫: How to reach :-
+   <a><img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" height="50" width="45"></a>
+</h2>
 <!-- - :mailbox:How to reach me:<a href= "sonikhush004@gmail.com"> <b>sonikhush004@gmail.com </b>🙂
      </a> -->
-</h3>
+
 <!--
 - 🔭: I’m a pursuing btech and devloping web applications & sites.
 - 🌱: Exploring Technical Content Writing.
