@@ -5,7 +5,8 @@
 
 <!--img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 
-<h1> <img src="https://user-images.githubusercontent.com/74038190/216655846-93807a43-d6e8-448a-bf19-799b5e8c1c0a.gif" height="50">About Me : </h1>-->
+<!--
+h1> <img src="https://user-images.githubusercontent.com/74038190/216655846-93807a43-d6e8-448a-bf19-799b5e8c1c0a.gif" height="50">About Me : </h1>
 <h3> <img src="https://user-images.githubusercontent.com/74038190/216656947-44e5d67b-e907-4646-99da-6a4b4f52ef81.gif" width="50"><h2>📫: How to reach :-
    <a><img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" height="50" width="45"></a>
 </h2>
@@ -31,7 +32,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-<!--
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) <br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
@@ -46,7 +46,7 @@
 ![Netlify](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
 ![Gitlab](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![Github](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
---->
+
 <!--
 <p align="left">
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
@@ -61,7 +61,7 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 ![Netlify](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
 ![Gitlab](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
-![Github](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717) </p>-->
+![Github](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717) </p>
 
 ---
 
@@ -72,35 +72,28 @@
 ![Khuhsoni's GitHub stats](https://github-readme-stats.vercel.app/api?username=khush1009i&show_icons=true&theme=radical)<br>
 [![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=khush1009i&theme=dark&background=000000)](https://git.io/streak-stats) <br><br>
 
-<!--
 <h2 > <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@khushsoni" height="30" width="40" />Daily.Dev Status </h2>
-  
-  <a href="https://app.daily.dev/khush_soni"><img src="https://api.daily.dev/devcards/v2/1VsNSXr2UTZwvnEig6Vk7.png?type=wide&r=azv" width="400" alt="KHUSH SONI's Dev Card"/></a></h3></a> -->
-
----
+--->
 ### 📊: Activity graph :
 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=khush1009i)](https://github.com/khush1009i/github-profile-trophy)<br><br> -->
 [![Khushsoni's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=khush1009i&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/khush1009i/github-readme-activity-graph)<br><br>
-<div align="center"><img src="https://komarev.com/ghpvc/?username=khush1009i&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:50";>
-</div>
+
 
 <!---
 ### ✍️:Random Dev Quote:<br>
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 --->
+---
 
-<h3 align="left">Social Connection :- </h3>
-<!--<p><a href="https://www.buymeacoffee.com/khush_soni"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="khush_soni" /></a></p>
-<a href="https://ko-fi.com/khushsoni"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="khushsoni" /></a></p><a href="https://dev.to/@khushsoni" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@khushsoni" height="30" width="40" /></a>-->
-<a href="https://linkedin.com/in/khush-soni" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khush-soni" height="30" width="40" /></a>
-<a href="https://fb.com/hindu.hi.hindutva.hai" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hindu.hi.hindutva.hai" height="30" width="40" /></a>
-<a href="https://instagram.com/myvariable_khush" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="myvariable_khush" height="30" width="40" /></a>
+## 📬 Contact Me
+
+- **Email**: [Let's Talk!](sonikhush007@gmail.com)
+- **GitHub**: [Check out my other projects](https://github.com/khush1009i)
+- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/khush-soni?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- **Personal Site**: [Connect with me](https://khushsoni.framer.website/)
+<p><a href="https://www.buymeacoffee.com/khush_soni"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="khush_soni" /></a></p> <a href="https://ko-fi.com/khushsoni"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="khushsoni" /></a></p>
+
 <!--
 ### Coding Practice Plattform
 <a href="https://hashnode.com/@khushsoni007" target="blank">
@@ -109,3 +102,7 @@
 <a href="https://www.hackerrank.com/@22embit023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@22embit023" height="30" width="40" /></a>
 </p>
 -->
+
+---
+<div align="center"><img src="https://komarev.com/ghpvc/?username=khush1009i&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:50";>
+</div>
