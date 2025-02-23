@@ -88,7 +88,6 @@ h1> <img src="https://user-images.githubusercontent.com/74038190/216655846-93807
 
 ## 📬 Contact Me
 
-- **Email**: [Let's Talk!](sonikhush007@gmail.com)
 - **GitHub**: [Check out my other projects](https://github.com/khush1009i)
 - **LinkedIn**: [Connect with me](https://www.linkedin.com/in/khush-soni?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - **Personal Site**: [Connect with me](https://khushsoni.framer.website/)
