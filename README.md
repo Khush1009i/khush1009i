@@ -71,8 +71,7 @@ h1> <img src="https://user-images.githubusercontent.com/74038190/216655846-93807
 ![Khuhsoni's GitHub stats](https://github-readme-stats.vercel.app/api?username=khush1009i&show_icons=true&theme=radical)<br>
 [![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=khush1009i&theme=dark&background=000000)](https://git.io/streak-stats) <br><br>
 
-<h2 > <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@khushsoni" height="30" width="40" />Daily.Dev Status </h2>
---->
+
 ### 📊: Activity graph :
 
 [![Khushsoni's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=khush1009i&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/khush1009i/github-readme-activity-graph)<br><br>
