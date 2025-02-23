@@ -63,12 +63,11 @@ h1> <img src="https://user-images.githubusercontent.com/74038190/216655846-93807
 ![Gitlab](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![Github](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717) </p>
 
----
+--->
 
 
 ### 🔥Git Repository Status :-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khush1009i&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khush1009i&layout=compact)
 ![Khuhsoni's GitHub stats](https://github-readme-stats.vercel.app/api?username=khush1009i&show_icons=true&theme=radical)<br>
 [![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=khush1009i&theme=dark&background=000000)](https://git.io/streak-stats) <br><br>
 
