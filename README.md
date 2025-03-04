@@ -68,8 +68,10 @@ h1> <img src="https://user-images.githubusercontent.com/74038190/216655846-93807
 
 ### 🔥Git Repository Status :-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khush1009i&layout=compact)
-![Khuhsoni's GitHub stats](https://github-readme-stats.vercel.app/api?username=khush1009i&show_icons=true&theme=radical)<br>
-[![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=khush1009i&theme=dark&background=000000)](https://git.io/streak-stats) 
+![Khuhsoni's GitHub stats](https://github-readme-stats.vercel.app/api?username=khush1009i&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=khush1009i&theme=dark)](https://git.io/streak-stats)
+
+
 
 
 ### 📊: Activity graph :
@@ -84,13 +86,38 @@ h1> <img src="https://user-images.githubusercontent.com/74038190/216655846-93807
 --->
 ---
 
-## 📬 Contact Me
+## 📬 **Let's Connect!**  
 
-- **GitHub**: [Check out my other projects](https://github.com/khush1009i)
-- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/khush-soni?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- **Personal Site**: [Connect with me](https://khushsoni.framer.website/)
-<p><a href="https://www.buymeacoffee.com/khush_soni"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="khush_soni" /></a></p> <a href="https://ko-fi.com/khushsoni"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="khushsoni" /></a></p>
+🌟 **Have questions, feedback, or just want to say hi?** Feel free to reach out!  
 
+### 🔗 **Find Me Online:**  
+
+- 🚀 **GitHub**: [Explore More Projects](https://github.com/khush1009i)  
+- 💼 **LinkedIn**: [Let's Connect](https://www.linkedin.com/in/khush-soni?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- 🌐 **Portfolio**: [Visit My Personal Website](https://khushsoni.framer.website/)  
+
+---
+
+### ☕ **Support My Work**  
+
+If you like my projects and want to support my journey, you can buy me a coffee or donate! Every contribution keeps me motivated. 🚀💙  
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/khush_soni">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="200" alt="Buy Me a Coffee">
+  </a>
+  &nbsp;
+  <a href="https://ko-fi.com/khushsoni">
+    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="200" alt="Support on Ko-fi">
+  </a>
+</p>  
+
+---
+
+### 📩 **Let's Build Something Awesome!**  
+💌 Feel free to connect, collaborate, or just drop a message. I’d love to hear from you! 🚀  
+
+---
 <!--
 ### Coding Practice Plattform
 <a href="https://hashnode.com/@khushsoni007" target="blank">
@@ -100,6 +127,5 @@ h1> <img src="https://user-images.githubusercontent.com/74038190/216655846-93807
 </p>
 -->
 
----
 <div align="center"><img src="https://komarev.com/ghpvc/?username=khush1009i&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:50";>
 </div>
