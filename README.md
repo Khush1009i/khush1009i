@@ -67,10 +67,16 @@ h1> <img src="https://user-images.githubusercontent.com/74038190/216655846-93807
 
 
 ### 🔥Git Repository Status :-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khush1009i&size_weight=0.5&count_weight=0.5)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khush1009i&size_weight=0.5&count_weight=0.5)
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Khush1009i&show_icons=true&theme=transparent)
 
 ![Khuhsoni's GitHub stats](https://github-readme-stats.vercel.app/api?username=khush1009i&show_icons=true&theme=radical)
+
+-->
+
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Khush1009i&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Khush1009i&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 
