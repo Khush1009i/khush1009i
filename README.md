@@ -64,6 +64,7 @@
 - 🚀 **GitHub**: [Explore More Projects](https://github.com/khush1009i)  
 - 💼 **LinkedIn**: [Let's Connect](https://www.linkedin.com/in/khush-soni?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 - 🌐 **Portfolio**: [Visit My Personal Website](https://khushsoni.framer.website/)  
+- 🌐 **Email**:  [Email me](mailto:your-sonikhush004@gmail.com)
 
 ---
 
