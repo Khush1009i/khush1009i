@@ -55,16 +55,12 @@
 
 ---
 
-## 📬 **Let's Connect!**  
+## 📬 **Let's Connect!:**  
 
-🌟 **Have questions, feedback, or just want to say hi?** Feel free to reach out!  
-
-### 🔗 **Find Me Online:**  
-
-- 🚀 **GitHub**: [Explore More Projects](https://github.com/khush1009i)  
-- 💼 **LinkedIn**: [Let's Connect](https://www.linkedin.com/in/khush-soni?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-- 🌐 **Portfolio**: [Visit My Personal Website](https://khushsoni.framer.website/)  
-- 🌐 **Email**:  [Email me](mailto:your-sonikhush004@gmail.com)
+- 🚀 **GitHub**     :  [Explore More Projects](https://github.com/khush1009i)  
+- 💼 **LinkedIn**   :  [Let's Connect](https://www.linkedin.com/in/khush-soni?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- 🌐 **Portfolio**  :  [Visit My Personal Website](https://khushsoni.framer.website/)  
+- 🌐 **Email**      :  [Email me](mailto:your-sonikhush004@gmail.com)
 
 ---
 
@@ -75,7 +71,7 @@ If you like my projects and want to support my journey, you can buy me a coffee 
 <p align="center">
   <a href="https://www.buymeacoffee.com/khush_soni">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="200" alt="Buy Me a Coffee">
-  </a>
+  </a> <br> 
   &nbsp;
   <a href="https://ko-fi.com/khushsoni">
     <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="200" alt="Support on Ko-fi">
@@ -84,12 +80,8 @@ If you like my projects and want to support my journey, you can buy me a coffee 
 
 ---
 
-### 📩 Let's Build Something Awesome!  
-💌 Feel free to connect, collaborate, or just drop a message. I’d love to hear from you! 🚀  
 
----
-
-
+<!--
 ### Random Dev Quote:<br>
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
