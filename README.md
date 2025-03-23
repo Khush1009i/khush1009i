@@ -1,5 +1,5 @@
 
-<h2 align="center">Just a developer from India, crafting lines of code that power the future.<br> Who am I?  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h2>
+<h2 align="center">A developer from India, crafting lines of code that power the future.<br> Who am I?  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h2>
 
 
 
