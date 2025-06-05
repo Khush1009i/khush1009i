@@ -18,13 +18,16 @@
 ---
 
  
- ## 🚀 Tech Stack & Tools  
+## 🚀 Tech Stack & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,gitlab,github" /><br><br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,dart,gitlab,github" /><br><br>
+  
   <img src="https://img.shields.io/badge/Figma-white?style=for-the-badge&logo=figma&logoColor=black" />
   <img src="https://img.shields.io/badge/Framer-white?style=for-the-badge&logo=framer&logoColor=black" />
   <img src="https://img.shields.io/badge/Canva-white?style=for-the-badge&logo=canva&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Dart-white?style=for-the-badge&logo=dart&logoColor=0175C2" />
 </p>
+
 
 
 
