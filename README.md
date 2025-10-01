@@ -20,7 +20,7 @@
  
 ## 🚀 Tech Stack & Tools  
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=html,css,js,java,python,dart,flutter,postman,gitlab,github" /><br><br>
+   <img src="https://skillicons.dev/icons?i=html,css,js,java,python,dart,flutter,postman,gitlab,github,nodejs,expressjs" /><br><br>
    <img src="https://img.shields.io/badge/REST_API-white?style=for-the-badge&logo=swagger&logoColor=85EA2D" />
    <img src="https://img.shields.io/badge/Figma-white?style=for-the-badge&logo=figma&logoColor=black" />
    <img src="https://img.shields.io/badge/Framer-white?style=for-the-badge&logo=framer&logoColor=black" />
