@@ -2,7 +2,7 @@
 <img src="https://github.com/Khush1009i/khush1009i/blob/d4b78aca257afff4343bfa2b6b91ef8e0a469aa2/Khush%20soni%20(1).png" height="350" width="1500">
 </div>
 
-<h1 align="center">A crack dev, crafting lines for crack beauties .<br></h1>
+<h1 align="center">A crack dev, crafting lines for crack beauties...<br></h1>
 
 ---
 
