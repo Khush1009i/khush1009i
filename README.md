@@ -33,6 +33,9 @@
 
 
 
+[![Khush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khush1009i&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khush1009i&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ---
 
 ## 📬 **Let's Connect!:**  
@@ -66,7 +69,11 @@ If you like my projects and want to support my journey, you can buy me a coffee 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
 
 ---
-<!-- 
 
 <div align="center"><img src="https://komarev.com/ghpvc/?username=khush1009i&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:90";>
 </div>
+
+---
+
+
+
